@@ -1,3 +1,7 @@
+# E Commerce DEMO
+
+The purpose of this project is to learn and use the key concept of [React](https://reactjs.org/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
