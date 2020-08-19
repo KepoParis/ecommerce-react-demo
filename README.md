@@ -1,4 +1,5 @@
 # E Commerce DEMO
+https://kepo-ecommerce-demo.herokuapp.com/
 
 The purpose of this project is to learn and use the key concept of [React](https://reactjs.org/)
 
